@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">week1daily4translationandactivity</string>
+    <string name="tvFive">area</string>
+    <string name="tvFour">purpura</string>
+    <string name="tvThree">manibus</string>
+    <string name="tvTwo">Magna</string>
+    <string name="tvOne">orbis terrarum</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">week1daily4translationandactivity</string>
+    <string name="send_to_next" translatable="false">Send to next</string>
+    <string name="tvOne">World</string>
+    <string name="tvTwo">Large</string>
+    <string name="tvThree">Hand</string>
+    <string name="tvFour">Purple</string>
+    <string name="tvFive">Floor</string>
+</resources>

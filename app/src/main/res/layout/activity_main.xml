@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvOne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvOne"
+        android:textSize="@dimen/textSize1"
+        android:onClick="onClick" />
+
+    <TextView
+        android:id="@+id/tvTwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvTwo"
+        android:textSize="@dimen/textSize1"
+        android:onClick="onClick" />
+
+    <TextView
+        android:id="@+id/tvThree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvThree"
+        android:textSize="@dimen/textSize1"
+        android:onClick="onClick" />
+
+    <TextView
+        android:id="@+id/tvFour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvFour"
+        android:textSize="@dimen/textSize1"
+        android:onClick="onClick" />
+
+    <TextView
+        android:id="@+id/tvFive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvFive"
+        android:textSize="@dimen/textSize1"
+        android:onClick="onClick" />
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send_to_next"
+        android:textSize="@dimen/textSize1"
+        android:onClick="onClick" />
+
+</LinearLayout>
